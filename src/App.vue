@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" class="mx-auto" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3.0 + Vite + Tailwindcss" />
+  <HelloWorld msg="Vue 3.0 + Vite + Tailwindcss" />
 </template>
 
 <script>
